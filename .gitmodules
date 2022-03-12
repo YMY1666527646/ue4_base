@@ -1,0 +1,3 @@
+[submodule "ue4_base/utils/libraries/minhook"]
+	path = ue4_base/utils/libraries/minhook
+	url = https://github.com/TsudaKageyu/minhook
